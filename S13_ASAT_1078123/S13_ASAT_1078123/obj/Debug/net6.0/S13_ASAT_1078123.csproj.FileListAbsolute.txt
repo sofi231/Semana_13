@@ -13,3 +13,18 @@ C:\Users\sofia\OneDrive\Documentos\URL - 2023\Progra práctica\supervisado\S13_A
 C:\Users\sofia\OneDrive\Documentos\URL - 2023\Progra práctica\supervisado\S13_ASAT_1078123\S13_ASAT_1078123\obj\Debug\net6.0\S13_ASAT_1078123.pdb
 C:\Users\sofia\OneDrive\Documentos\URL - 2023\Progra práctica\supervisado\S13_ASAT_1078123\S13_ASAT_1078123\obj\Debug\net6.0\S13_ASAT_1078123.genruntimeconfig.cache
 C:\Users\sofia\OneDrive\Documentos\URL - 2023\Progra práctica\supervisado\S13_ASAT_1078123\S13_ASAT_1078123\obj\Debug\net6.0\ref\S13_ASAT_1078123.dll
+C:\Users\sofia\OneDrive\Escritorio\Semana_13\S13_ASAT_1078123\S13_ASAT_1078123\bin\Debug\net6.0\S13_ASAT_1078123.exe
+C:\Users\sofia\OneDrive\Escritorio\Semana_13\S13_ASAT_1078123\S13_ASAT_1078123\bin\Debug\net6.0\S13_ASAT_1078123.deps.json
+C:\Users\sofia\OneDrive\Escritorio\Semana_13\S13_ASAT_1078123\S13_ASAT_1078123\bin\Debug\net6.0\S13_ASAT_1078123.runtimeconfig.json
+C:\Users\sofia\OneDrive\Escritorio\Semana_13\S13_ASAT_1078123\S13_ASAT_1078123\bin\Debug\net6.0\S13_ASAT_1078123.dll
+C:\Users\sofia\OneDrive\Escritorio\Semana_13\S13_ASAT_1078123\S13_ASAT_1078123\bin\Debug\net6.0\S13_ASAT_1078123.pdb
+C:\Users\sofia\OneDrive\Escritorio\Semana_13\S13_ASAT_1078123\S13_ASAT_1078123\obj\Debug\net6.0\S13_ASAT_1078123.csproj.AssemblyReference.cache
+C:\Users\sofia\OneDrive\Escritorio\Semana_13\S13_ASAT_1078123\S13_ASAT_1078123\obj\Debug\net6.0\S13_ASAT_1078123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\OneDrive\Escritorio\Semana_13\S13_ASAT_1078123\S13_ASAT_1078123\obj\Debug\net6.0\S13_ASAT_1078123.AssemblyInfoInputs.cache
+C:\Users\sofia\OneDrive\Escritorio\Semana_13\S13_ASAT_1078123\S13_ASAT_1078123\obj\Debug\net6.0\S13_ASAT_1078123.AssemblyInfo.cs
+C:\Users\sofia\OneDrive\Escritorio\Semana_13\S13_ASAT_1078123\S13_ASAT_1078123\obj\Debug\net6.0\S13_ASAT_1078123.csproj.CoreCompileInputs.cache
+C:\Users\sofia\OneDrive\Escritorio\Semana_13\S13_ASAT_1078123\S13_ASAT_1078123\obj\Debug\net6.0\S13_ASAT_1078123.dll
+C:\Users\sofia\OneDrive\Escritorio\Semana_13\S13_ASAT_1078123\S13_ASAT_1078123\obj\Debug\net6.0\refint\S13_ASAT_1078123.dll
+C:\Users\sofia\OneDrive\Escritorio\Semana_13\S13_ASAT_1078123\S13_ASAT_1078123\obj\Debug\net6.0\S13_ASAT_1078123.pdb
+C:\Users\sofia\OneDrive\Escritorio\Semana_13\S13_ASAT_1078123\S13_ASAT_1078123\obj\Debug\net6.0\S13_ASAT_1078123.genruntimeconfig.cache
+C:\Users\sofia\OneDrive\Escritorio\Semana_13\S13_ASAT_1078123\S13_ASAT_1078123\obj\Debug\net6.0\ref\S13_ASAT_1078123.dll

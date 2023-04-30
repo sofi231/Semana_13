@@ -1,41 +1,34 @@
 ﻿using System;
 using System.Globalization;
 
-class Persona
-{
-    private string nombre;
-    private string apellido;
-    private int edad;
-    private double cm;
-
-    public Persona(string nombre, string apellido, int edad, double cm)
+class Ejercicio2
+{   
+    static void Main()
     {
-        this.nombre = nombre;
-        this.apellido = apellido;
-        this.edad = edad;
-        this.cm = cm;
-    }
+        Console.Write("\nIngrese el tamaño de la matriz para hacer la multiplicación: ");
+        int n = Convert.ToInt32(Console.ReadLine());
 
-    public string NombreCompleto()
-    {
-        return nombre + " " + apellido;
-    }
+        int[,] mult = new int[n, n];
 
-    public double mts()
-    {
-        return cm / 100;
-    }
+        for (int i = 1; i <= n; i++)
+        {
+            for (int x = 1; x <= n; x++)
+            {
+                mult[i - 1, x - 1] = i * x;
+            }
+        }
 
-    public void MostrarDatos()
-    {
-        Console.WriteLine("Nombre completo: " + NombreCompleto());
-        Console.WriteLine("Edad: " + edad);
-        Console.WriteLine("Altura en metros: " + mts());
-    }
+        Console.WriteLine("\nEl resultado es: \n");
 
-    static void Main(string[] args)
-    {
-        Persona persona = new Persona("Sofía", "Asturias", 18, 161.5);
-        persona.MostrarDatos();
+        for (int i = 0; i < n; i++)
+        {
+            for (int x = 0; x < n; x++)
+            {
+                Console.Write(mult[i, x] + "\t");
+            }
+            Console.WriteLine();
+        }
+
+        Console.ReadKey();
     }
 }
