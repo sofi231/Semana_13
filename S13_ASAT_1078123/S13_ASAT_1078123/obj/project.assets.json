@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sofia\\OneDrive\\Documentos\\URL - 2023\\Progra práctica\\supervisado\\S13_ASAT_1078123\\S13_ASAT_1078123\\S13_ASAT_1078123.csproj",
+      "projectUniqueName": "C:\\Users\\sofia\\OneDrive\\Escritorio\\Semana_13\\S13_ASAT_1078123\\S13_ASAT_1078123\\S13_ASAT_1078123.csproj",
       "projectName": "S13_ASAT_1078123",
-      "projectPath": "C:\\Users\\sofia\\OneDrive\\Documentos\\URL - 2023\\Progra práctica\\supervisado\\S13_ASAT_1078123\\S13_ASAT_1078123\\S13_ASAT_1078123.csproj",
+      "projectPath": "C:\\Users\\sofia\\OneDrive\\Escritorio\\Semana_13\\S13_ASAT_1078123\\S13_ASAT_1078123\\S13_ASAT_1078123.csproj",
       "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sofia\\OneDrive\\Documentos\\URL - 2023\\Progra práctica\\supervisado\\S13_ASAT_1078123\\S13_ASAT_1078123\\obj\\",
+      "outputPath": "C:\\Users\\sofia\\OneDrive\\Escritorio\\Semana_13\\S13_ASAT_1078123\\S13_ASAT_1078123\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",
